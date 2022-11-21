@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Praveen\Code\FSD\Phase 2 Backend\Developing-a-Backend-Admin-for-Learner-s-Academy\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+485815346.index
+2309334014.index
+1885721446.index
+2623968407.index
+1320909304.index
+781689662.index

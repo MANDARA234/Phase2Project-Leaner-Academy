@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
+    <fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
+    <fullyQualifiedTypeName name="AllDetails.StudentDetails"/>
+    <fullyQualifiedTypeName name="AllDetails.TeacherDetails"/>
+    <fullyQualifiedTypeName name="AllDetails.ClassDetails"/>
+    <fullyQualifiedTypeName name="AllDetails.SubjectDetails"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.http.HttpServlet"/>
+</qualifiedTypeNameHistroy>
